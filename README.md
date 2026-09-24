@@ -1,9 +1,9 @@
 <div align="center">
 
-[![typing banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=2EA9DF&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Santiago+%F0%9F%91%8B;Full+Stack+Developer;Angular+%C2%B7+.NET+%C2%B7+PostgreSQL;Co-founder+%40+AndesAiSolutions)](https://github.com/yexg08)
+[![typing banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=2EA9DF&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Santiago+%F0%9F%91%8B;Full+Stack+Developer;Angular+%C2%B7+.NET+%C2%B7+PostgreSQL;Founder+%40+AndesAiSolutions)](https://github.com/yexg08)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-molina-rios-a60292412)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santimolinarag@gmail.com)
 
 ![profile views](https://komarev.com/ghpvc/?username=yexg08&style=flat&color=2EA9DF&label=Visitas+al+perfil)
 
