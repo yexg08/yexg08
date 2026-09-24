@@ -1,11 +1,9 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A43,100:00B4A6&height=200&section=header&text=Santiago%20Molina&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Founder%20%40%20AndesAiSolutions&descSize=17&descAlignY=58" width="100%" alt="Santiago Molina — Full Stack Developer" />
-typing
 
 <a href="https://andesaisolutions.netlify.app"><img src="https://img.shields.io/badge/AndesAiSolutions-0F2A43?style=for-the-badge&logo=googlechrome&logoColor=00B4A6" alt="AndesAiSolutions" /></a> <a href="https://www.linkedin.com/in/santiago-molina-rios-a60292412/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:santimolinarag@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://instagram.com/andesaisolutions"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=yexg08&style=flat-square&color=00B4A6&label=visitas" alt="visitas al perfil" /> </div> <br /> <!-- ═══════════════════════════ SOBRE MÍ ═══════════════════════════ -->
 🧑‍💻 Sobre mí
-<table> <tr> <td width="55%" valign="top">
 Soy Full Stack Developer y estudiante de Ingeniería de Sistemas en la UAM (Manizales, Colombia).
 
 Fundé AndesAiSolutions para ayudar a pymes de Colombia y Sudamérica a dejar atrás el Excel, el papel y los chats de WhatsApp, con software a la medida y automatización con IA.
@@ -18,7 +16,6 @@ Lo que cuido en cada proyecto
 🧾 Logs de auditoría desde el día uno
 💸 Costos de infraestructura claros para el cliente
 🤖 IA donde de verdad ahorra trabajo, no por moda
-</td> <td width="45%" valign="top">
 public record Developer
 {
     public string Name     => "Santiago Molina Ríos";
@@ -36,14 +33,14 @@ public record Developer
     public string Focus =>
         "Software a la medida + IA";
 }
-</td> </tr> </table> <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
 🛠️ Stack
 <div align="center">
-Frontend<br /> <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,astro&theme=dark" alt="Frontend" />
+<b>Frontend</b><br /> <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,astro&theme=dark" alt="Frontend" />
 
-Backend y datos<br /> <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,docker&theme=dark" alt="Backend" />
+<b>Backend y datos</b><br /> <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,docker&theme=dark" alt="Backend" />
 
-Herramientas<br /> <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,netlify&theme=dark" alt="Herramientas" />
+<b>Herramientas</b><br /> <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,netlify&theme=dark" alt="Herramientas" />
 
 <sub>También trabajo con</sub><br /> <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" /> <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="SignalR" /> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
 
